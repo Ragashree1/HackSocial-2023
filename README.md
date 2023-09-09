@@ -6,7 +6,7 @@ EcoLearnHub is an e-learning platform dedicated to sustainability education. Our
 
 Visit our website: [EcoLearnHub](https://eco-learn-hub.vercel.app/)
 
-![image](https://github.com/Ragashree1/HackSocial-2023/assets/122210451/0edea74c-d2dd-4cb6-910e-9e5a972cbe7c)
+<img width="909" alt="image" src="https://github.com/Ragashree1/HackSocial-2023/assets/122210451/95d1ca1e-6c87-42e4-9081-1887650eff48">
 
 ## Technologies Used
 
