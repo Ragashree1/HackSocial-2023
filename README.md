@@ -24,6 +24,8 @@ EcoLearnHub offers a diverse range of courses related to sustainability, includi
 
 One of our standout features is the Recycle Bin Locator. Users can input their postal code to find the nearest recycling bins and centers in their area. This practical tool encourages recycling and reduces waste.
 
+
+## Our website
 Visit our website: [EcoLearnHub](https://eco-learn-hub.vercel.app/)
 
 <img width="909" alt="image" src="https://github.com/Ragashree1/HackSocial-2023/assets/122210451/95d1ca1e-6c87-42e4-9081-1887650eff48">
